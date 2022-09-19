@@ -1,1 +1,2 @@
-# G-P-D-B
+# GPDB
+General Purpose Discord Bot
